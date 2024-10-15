@@ -1,0 +1,17 @@
+* {
+    font-family: "EB Garamond", "Times New Roman", sans-serif;
+}
+
+body {
+    background-color: green;
+}
+
+.container {
+    background-color: bisque;
+}
+
+h1 {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
